@@ -1,1 +1,2 @@
-# harperkellyclark.github.io
+# HarperKellyClark.github.ignore
+Source for site

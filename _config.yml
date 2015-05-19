@@ -1,0 +1,12 @@
+# Site settings
+title: Harper Kelly Clark
+email: Jesse@Clark.GURU
+description: > # this means to ignore newlines until "baseurl:"
+  All Things Harper
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://HarperKellyClark.com" # the base hostname & protocol for your site
+twitter_username: clarkguru
+github_username:  clarkguru
+
+# Build settings
+markdown: kramdown
